@@ -2,6 +2,7 @@
 
 <!--
 **Zhangyifan0016/Zhangyifan0016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/Zhangyifan0016/Zhangyifan0016/blob/main/write.gif)
 
 Here are some ideas to get you started:
 
